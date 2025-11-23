@@ -2,7 +2,7 @@
 ## 图片素材
 ### 1. 谷歌搜索相关图片
 ![img_3.png](image/img_3.png)
-https://www.google.com/<br>
+https://www.google.com/
 ![529447186_122255309018072160_1023116322667084641_n.jpg](image/529447186_122255309018072160_1023116322667084641_n.jpg)
 ### 2. 线上 ps 预处理图片
 ![img_4.png](image/img_4.png)
