@@ -19,6 +19,9 @@ https://holopix.cn/workspace/explore
 ### 5. 即梦生成动画
 ![img_1.png](image/img_1.png)
 https://jimeng.jianying.com/ai-tool/generate
+
+https://github.com/user-attachments/assets/6330817f-4b94-4a79-98ef-c9d8b10efed6
+
 ### 6. 动画拆分为帧动画
 ![img_5.png](image/img_5.png)
 https://video2timesheet.dawnwindstudio.top/
