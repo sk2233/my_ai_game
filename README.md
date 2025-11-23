@@ -1,5 +1,5 @@
 # 一款完全借助 AI 实现的游戏
-## 图片素材处理
+## 图片素材
 1. 谷歌搜索相关图片
 ![img_3.png](image/img_3.png)
 https://www.google.com/<br>
@@ -19,3 +19,15 @@ https://holopix.cn/workspace/explore
 5. 即梦生成动画
 ![img_1.png](image/img_1.png)
 https://jimeng.jianying.com/ai-tool/generate
+6. 动画拆分为帧动画
+![img_5.png](image/img_5.png)
+https://video2timesheet.dawnwindstudio.top/
+![fly.png](res/image/fly.png)
+## 音频素材
+原来也想用 AI 的不过测试下来几个效果都不好，不过查询过程也算是用 AI 了😂
+![img_6.png](image/img_6.png)
+https://www.doubao.com/chat/30558944794456322
+[bgm.mp3](res/audio/bgm.mp3)
+## 程序编写
+![img_7.png](image/img_7.png)
+全程使用 cursor 完成
