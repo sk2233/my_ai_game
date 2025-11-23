@@ -30,7 +30,9 @@ https://video2timesheet.dawnwindstudio.top/
 原来也想用 AI 的不过测试下来几个效果都不好，不过查询过程也算是用 AI 了😂
 ![img_6.png](image/img_6.png)
 https://www.doubao.com/chat/30558944794456322
-[bgm.mp3](res/audio/bgm.mp3)
+
+[bgm.mp3](https://github.com/user-attachments/files/23695954/bgm.mp3)
+
 ## 程序编写
 ![img_7.png](image/img_7.png)
 全程使用 cursor 完成
